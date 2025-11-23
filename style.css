@@ -1,0 +1,44 @@
+
+.background{
+    background-image: url("https://images.pexels.com/photos/3965551/pexels-photo-3965551.jpeg?_gl=1*gz8th5*_ga*ODk5NTM3NTIuMTczODg2MDk3MQ..*_ga_8JE65Q40S6*czE3NjM5MTM5OTUkbzQkZzEkdDE3NjM5MTQwMTIkajQzJGwwJGgw");
+    height:100vh;
+    background-size:cover;
+
+}
+.shopcard{ 
+    background-color:antiquewhite;
+    text-align: center;
+    border-width:2px;
+    border-radius: 22px;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    padding: 25px;
+    margin:60px;
+    
+}
+.heading{
+    font-family:"Roboto";
+    font-style:italic;
+    color:chocolate;
+    font-size: x-large;
+    font-weight:bold;
+
+}
+.para{
+    color:grey;
+    font-size:13px;
+    font-family:"sans-serif";
+}
+.Button{
+    color:black;
+    border-radius: 15px;
+    background-color:burlywood;
+    border-width: 0px;
+    margin: 10px;
+
+
+}
+.image1{
+    height: 250px;
+    width: 250px;
+}
